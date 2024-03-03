@@ -1,10 +1,15 @@
 ### Hi I'm fleur 👋
-[Blog](https://blog.csdn.net/m0_62811051?type=blog)`
-- Read my Blog to learn more about me
+
+- Read my [Blog](https://blog.csdn.net/m0_62811051?type=blog) to learn more about me
 - Talk with me by Email or Telegram
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Fleurxxx&show_icons=true">
-
+<div align="center">
+	<img  src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN" />
+</div>
+<div align="center">
+	<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fleurxxx&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" />
+</div>
 <!--
 **Fleurxxx/Fleurxxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
