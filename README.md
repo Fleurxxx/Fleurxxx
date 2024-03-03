@@ -12,7 +12,7 @@
 </p>
 
 
-#### 🔧 Platform & Tools
+#### Platform & Tools
 
 [![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
 [![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
@@ -33,7 +33,7 @@
 
 
 
-#### 🔮 My GitHub Stats
+#### My GitHub Stats
 
 <div align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=Fleurxxx&show_icons=true">
