@@ -1,6 +1,9 @@
-### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fleurxxx&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Fleurxxx&show_icons=true">
+### Hi I'm fleur 👋
+[Blog](https://blog.csdn.net/m0_62811051?type=blog)`
+- Read my Blog to learn more about me
+- Talk with me by Email or Telegram
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Fleurxxx&show_icons=true">
 
 <!--
 **Fleurxxx/Fleurxxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
