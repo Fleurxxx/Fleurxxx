@@ -7,7 +7,7 @@
 - 😄 Read more about my [CSDN](https://blog.csdn.net/m0_62811051?type=blog).
 
 <p>
-	好事多磨我慢慢来
+	学习不是目的，工作不是终点。
 	<img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="30" />
 </p>
 
