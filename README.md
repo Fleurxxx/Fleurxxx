@@ -1,8 +1,8 @@
 ### Hi, I'm fleur 👋
 
-- 🔭 I'm a front-end developer dedicated to creating visually appealing and user-friendly websites. Let's collaborate to bring your digital vision to life.
+- 🔭 I'm a front-end developer dedicated to creating visually appealing and user-friendly websites. 
 - 🌱 I have a keen interest in various technologies, especially blockchain, artificial intelligence, and web development.
-- 💬 Ask me about anything related to technology.
+- 💬 Let's collaborate to bring your digital vision to life. Ask me about anything related to technology.
 - 📫 Talk with me by [Email](mailto:fleurxxx@163.com) .
 - 😄 Read more about my [CSDN](https://blog.csdn.net/m0_62811051?type=blog).
 
